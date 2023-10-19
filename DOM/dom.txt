@@ -1,0 +1,6 @@
+Methods of target DOM
+  getElementByid()
+  getelementsByClassName()
+  getElementByTagName()
+  queryselector()
+  queryselectorAll()

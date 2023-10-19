@@ -1,0 +1,8 @@
+JavaScript is a lightweight, interpreted or just in time compiled programming language.
+
+lightweight :- consume minimum memory
+
+Js Engine :- a software component that execute js compiled
+
+earlier known as LiveScript
+
